@@ -1,4 +1,9 @@
 tt is one
 tt is two
 wo shi ni ba
+<<<<<<< HEAD
 tt is three111
+=======
+tt is three
+four is four
+>>>>>>> 4346abd23fa5cac39cf92c370113b56d3b4acdc6
